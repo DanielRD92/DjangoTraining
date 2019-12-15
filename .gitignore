@@ -1,2 +1,3 @@
 .vscode/
 bokeh_project_venv/
+.*/__pycache_/
