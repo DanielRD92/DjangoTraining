@@ -57,5 +57,4 @@ def learning_graph(request):
 
 
 def home(request):
-    first_graph="My first bokeh graph will be rendered on this page"
     return render(request, 'home.html')
